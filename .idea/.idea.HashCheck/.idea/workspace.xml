@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8836d54-2570-4720-bef2-03ca8f7e93b8" name="Default Changelist" comment="" />
+    <list default="true" id="c8836d54-2570-4720-bef2-03ca8f7e93b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HashCheck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HashCheck/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashCheck/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HashCheck/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,9 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/HashCheck/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HashCheck/HashValidator.cs" root0="FORCE_HIGHLIGHTING" />
@@ -34,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1p3OhOueHdnJxCwtHglbggfTePB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -78,7 +86,7 @@
       <workItem from="1614408428702" duration="13153000" />
       <workItem from="1614432194747" duration="18000" />
       <workItem from="1614432865794" duration="23264000" />
-      <workItem from="1614496607986" duration="305000" />
+      <workItem from="1614496607986" duration="2813000" />
     </task>
     <servers />
   </component>
