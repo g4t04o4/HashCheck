@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c8836d54-2570-4720-bef2-03ca8f7e93b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HashCheck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HashCheck/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashCheck/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HashCheck/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +87,16 @@
       <workItem from="1614408428702" duration="13153000" />
       <workItem from="1614432194747" duration="18000" />
       <workItem from="1614432865794" duration="23264000" />
-      <workItem from="1614496607986" duration="2813000" />
+      <workItem from="1614496607986" duration="4258000" />
     </task>
+    <task id="LOCAL-00001" summary="Polished exception handling.">
+      <created>1614499508746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614499508746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,23 +104,38 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Polished exception handling." />
+    <option name="LAST_COMMIT_MESSAGE" value="Polished exception handling." />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="140" key="GridCell.Tab.0.bottom" timestamp="1614460653194">
+    <state width="1877" height="140" key="GridCell.Tab.0.bottom" timestamp="1614501039180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="140" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614460653194" />
-    <state width="1877" height="140" key="GridCell.Tab.0.center" timestamp="1614460653194">
+    <state width="1877" height="140" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614501039180" />
+    <state width="1877" height="140" key="GridCell.Tab.0.center" timestamp="1614501039180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="140" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614460653194" />
-    <state width="1877" height="140" key="GridCell.Tab.0.left" timestamp="1614460653194">
+    <state width="1877" height="140" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614501039180" />
+    <state width="1877" height="140" key="GridCell.Tab.0.left" timestamp="1614501039180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="140" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614460653194" />
-    <state width="1877" height="140" key="GridCell.Tab.0.right" timestamp="1614460653194">
+    <state width="1877" height="140" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614501039180" />
+    <state width="1877" height="140" key="GridCell.Tab.0.right" timestamp="1614501039180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="140" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614460653194" />
+    <state width="1877" height="140" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614501039180" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1614496912515">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
